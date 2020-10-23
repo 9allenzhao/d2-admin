@@ -18,19 +18,24 @@ export default {
       path: `${pre}synthesize`
     },
     {
-      title: '权限管理',
-      icon: 'link',
-      path: 'http://greper.gitee.io/d2-crud-plus/guide/permission.html'
-    },
-    {
       title: '更多示例',
       icon: 'link',
-      path: 'http://qiniu.veryreader.com/D2CrudPlusExample/'
+      path: 'http://preview.d2-crud-plus.docmirror.cn/D2CrudPlusExample/'
     },
     {
       title: '帮助文档',
       icon: 'link',
       path: 'http://greper.gitee.io/d2-crud-plus/'
+    },
+    {
+      title: '权限管理示例',
+      icon: 'link',
+      path: 'http://preview.d2-crud-plus.docmirror.cn/D2CrudPlusExample/#/permission/resource'
+    },
+    {
+      title: '权限管理文档',
+      icon: 'link',
+      path: 'http://greper.gitee.io/d2-crud-plus/guide/permission.html'
     }
 
   ])('/demo/d2-crud-plus/')
