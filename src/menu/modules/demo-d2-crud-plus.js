@@ -20,7 +20,7 @@ export default {
     {
       title: '权限管理',
       icon: 'link',
-      path: 'http://qiniu.veryreader.com/D2CrudPlusExample/#/permission/resource'
+      path: 'http://greper.gitee.io/d2-crud-plus/guide/permission.html'
     },
     {
       title: '更多示例',
